@@ -1,1 +1,4 @@
-ACO Test.txt
+Compling in C
+
+gcc -o p hello.c  % Complie
+./p               % Run
