@@ -20,3 +20,5 @@ Iterations      =  512000000
    MFLOPS(2)       =   853.3894
    MFLOPS(3)       =  1154.1686
    MFLOPS(4)       =  1294.1244
+
+https://quickchart.io/chart?c={ type: 'line', data: { labels: ['1', '2', '3', '4', '5', '6', '8', '10'], datasets: [ { label: 'Parallel Code per thread', fill: false, backgroundColor: 'rgb(54, 162, 235)', borderColor: 'rgb(54, 162, 235)', data: [0.605050, 0.470468, 0.446497, 0.532819, 0.553019, 0.628590, 1.182839, 0.935995 ], }, ], }, options: { title: { display: true, text: 'Time performance Pi sum', }, }, }
